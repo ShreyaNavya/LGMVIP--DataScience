@@ -1,1 +1,2 @@
-# LGMVIP--DataScience
+For the internship at LetsGrowMore.
+Thank you!
